@@ -1,0 +1,14 @@
+v1.7
+--------------------
+Dibblr and Last.fm integration
+Set audio/video files as ringtone + media converter
+BT file exchange (GameKit or BTstack)
+Wi-Fi ad-hoc network file sharing - SEMI-DONE
+iPad support
+Grouping by genres in MyPod
+Google (Docs and Plus) integration
+DMG file support
+Video and more audio metadata support via TagLib
+Dropbox and local thumbnails
+Use MPOAuthiOS, CarbonateTwitter and CarbonateJSON instead of MGTwitterEngine, SA_OAuthtTwitterEngine, TouchJSON and OAuthConsumer
+

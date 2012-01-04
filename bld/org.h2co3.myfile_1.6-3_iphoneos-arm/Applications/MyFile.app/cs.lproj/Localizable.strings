@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>\nFinished with exit code: %i\n</key>
+	<string>\nSkončil s exit kodem: %i.\n</string>
+	<key>%@ (raw: %@)</key>
+	<string>%@ (raw: %@)</string>
+	<key>%@. %@</key>
+	<string>%@. %@</string>
+	<key>%@. &lt;array&gt;</key>
+	<string>%@. &lt;array&gt;</string>
+	<key>%@. &lt;dict&gt;</key>
+	<string>%@. &lt;dict&gt;</string>
+	<key>%i item(s); %@ free</key>
+	<string>% i soubor/y; %@ volné</string>
+	<key>%i item; permissions: %@</key>
+	<string>%i souboru; práva: %@</string>
+	<key>%i items; permissions: %@</key>
+	<string>%i soubory; práva: %@</string>
+	<key>%i:%c%i of %i:%c%i</key>
+	<string>%i:%c%i of %i:%c%i</string>
+	<key>'%@' = '%@';</key>
+	<string>'%@' = '%@';</string>
+	<key>'%@' = &lt;array&gt;;</key>
+	<string>'%@' = &lt;array&gt;;</string>
+	<key>'%@' = &lt;dict&gt;;</key>
+	<string>'%@' = &lt;dict&gt;;</string>
+	<key>'file' command</key>
+	<string>'soubor' příkaz</string>
+	<key>(No description)\nTag ID: %i</key>
+	<string>(Bez popisu)\nTag ID: %i</string>
+	<key>About</key>
+	<string>O programu</string>
+	<key>About MyFile</key>
+	<string>O programu MyFile</string>
+	<key>Access time</key>
+	<string>Čas přístupu</string>
+	<key>Add bookmark</key>
+	<string>Přidat záložku</string>
+	<key>Add labels</key>
+	<string>Přidat popisky</string>
+	<key>Add to Camera Roll</key>
+	<string>Vložit do fotoalba</string>
+	<key>Add to Queue</key>
+	<string>Přidat do fronty</string>
+	<key>Add to iPod</key>
+	<string>Vložit do iPodu</string>
+	<key>Album</key>
+	<string>Album</string>
+	<key>Albums</key>
+	<string>Alba</string>
+	<key>Alpha:</key>
+	<string>Alpha:</string>
+	<key>App info</key>
+	<string>App info</string>
+	<key>Application: %@</key>
+	<string>Aplikace: %@</string>
+	<key>Archive manager</key>
+	<string>Archive manager</string>
+	<key>Are you sure you want to empty the trash?</key>
+	<string>Jste si jisti,že chcete vyprázdnit koš?</string>
+	<key>Artist</key>
+	<string>Umělec</string>
+	<key>Artists</key>
+	<string>Umělci</string>
+	<key>Artwork</key>
+	<string>Obrázek alba</string>
+	<key>Audio player</key>
+	<string>Audio přehrávač</string>
+	<key>Blue:</key>
+	<string>Modrá:</string>
+	<key>Bookmarks</key>
+	<string>Záložky</string>
+	<key>Calculating...</key>
+	<string>Vypočítávám...</string>
+	<key>Cancel</key>
+	<string>Konec</string>
+	<key>Check out my file: %@</key>
+	<string>Podívej se na můj soubor: %@</string>
+	<key>Choose image</key>
+	<string>Vyberte obrázek</string>
+	<key>Clear Queue</key>
+	<string>Odstranit fronty</string>
+	<key>Close</key>
+	<string>Zavřít</string>
+	<key>Columns of table</key>
+	<string>Sloupce v tabulce</string>
+	<key>Command failed</key>
+	<string>Příkaz selhal</string>
+	<key>Comments</key>
+	<string>Komentáře</string>
+	<key>Compress</key>
+	<string>Komprimovat</string>
+	<key>Compress failed</key>
+	<string>Komprimace selhala</string>
+	<key>Compress files</key>
+	<string>Komprimovat sobory</string>
+	<key>Confirm deletion</key>
+	<string>Potvrdit smazání</string>
+	<key>Continuous</key>
+	<string>Pokračovat</string>
+	<key>Convert 8 spaces to TAB</key>
+	<string>Převod 8 míst na TAB</string>
+	<key>Copy</key>
+	<string>Kopírovat</string>
+	<key>Create</key>
+	<string>Vytvořit</string>
+	<key>Create file</key>
+	<string>Vytvořit soubor</string>
+	<key>Create folder</key>
+	<string>Vytvořit složku</string>
+	<key>Crop</key>
+	<string>Výřez</string>
+	<key>Cut</key>
+	<string>Střih</string>
+	<key>Delete</key>
+	<string>Smazat</string>
+	<key>Directory?</key>
+	<string>Složka?</string>
+	<key>Dismiss</key>
+	<string>Zavřít</string>
+	<key>Don't forget to generate a HashInfo file to use iPod library support. See Seetings -&gt; Help for details.</key>
+	<string>Nezapomeňte vytvořit HashInfo soubor na podporu iPod knihovny.Viz Nastavení-&gt; Nápověda</string>
+	<key>Donate</key>
+	<string>Darovat</string>
+	<key>Done, modify!</key>
+	<string>Uložit, změny!</string>
+	<key>Download file</key>
+	<string>Stáhnout soubor</string>
+	<key>Download successful</key>
+	<string>Úspěšně stáhnuto</string>
+	<key>Dropbox</key>
+	<string>Dropbox</string>
+	<key>Dropbox actions</key>
+	<string>Dropbox akce</string>
+	<key>Dropbox sync</key>
+	<string>Dropbox synchronizace</string>
+	<key>Dropbox upload path</key>
+	<string>Nahrát cestu na Dropbox</string>
+	<key>Edit as text</key>
+	<string>Úpravit jako text</string>
+	<key>Editing metadata</key>
+	<string>Úprava metadat</string>
+	<key>Empty trash</key>
+	<string>Vysypat koš</string>
+	<key>Enable password</key>
+	<string>Zapnout heslo</string>
+	<key>Enter SQL query here</key>
+	<string>Zde zadejte dotaz SQL</string>
+	<key>Enter file mode</key>
+	<string>Napište hodnotu práv</string>
+	<key>Enter filename</key>
+	<string>Zadejte název souboru</string>
+	<key>Enter group ID</key>
+	<string>Zadejte ID skupiny</string>
+	<key>Enter new metadata</key>
+	<string>Zadejte nová metadata</string>
+	<key>Enter raw value</key>
+	<string>Zadejte hodnotu</string>
+	<key>Enter user ID</key>
+	<string>Zadejte ID uživatele</string>
+	<key>Error</key>
+	<string>Chyba</string>
+	<key>Error creating folder</key>
+	<string>Chyba při vytváření adresáře</string>
+	<key>Error deleting file</key>
+	<string>Chyba mazání souboru</string>
+	<key>Error downloading file</key>
+	<string>Chyba stahování souboru</string>
+	<key>Error loading metadata</key>
+	<string>Chyba nahrávání metadat</string>
+	<key>Error uploading file</key>
+	<string>Chyba nahrávání souboru</string>
+	<key>Executing command</key>
+	<string>Spustit příkaz</string>
+	<key>Executing command:\n%@...\n\n</key>
+	<string>Spustit příkaz:\n%@...\n\n</string>
+	<key>Extract application</key>
+	<string>Rozbalování aplikace</string>
+	<key>Extract package</key>
+	<string>Rozbalování balíčku</string>
+	<key>File %@ was uploaded to %@</key>
+	<string>Soubor %@ byl nahrán na %@</string>
+	<key>File name</key>
+	<string>Jméno souboru</string>
+	<key>File operations</key>
+	<string>Operace souboru</string>
+	<key>File sharing</key>
+	<string>Sdílení souborů</string>
+	<key>File tasks</key>
+	<string>Operace se soubory</string>
+	<key>Filename</key>
+	<string>Název souboru</string>
+	<key>Find</key>
+	<string>Najít</string>
+	<key>Fit to screen</key>
+	<string>Přizpůsobit obrazovce</string>
+	<key>Folder name</key>
+	<string>Jméno složky</string>
+	<key>Font size in points</key>
+	<string>Velikost písma v bodech</string>
+	<key>Font size of text editor</key>
+	<string>Velikost písma v textovém editoru</string>
+	<key>General</key>
+	<string>Obecné</string>
+	<key>Generate hash</key>
+	<string>Obecné hash</string>
+	<key>Genre</key>
+	<string>Žánr</string>
+	<key>Go to trash</key>
+	<string>Přejít do koše</string>
+	<key>Grayscale</key>
+	<string>Grayscale</string>
+	<key>Green:</key>
+	<string>Zelená:</string>
+	<key>Group</key>
+	<string>Skupina</string>
+	<key>Group ID</key>
+	<string>ID skupiny</string>
+	<key>HTTP server</key>
+	<string>HTTP server</string>
+	<key>Help</key>
+	<string>Pomoc</string>
+	<key>Hex editor</key>
+	<string>Hex prohlížeč</string>
+	<key>Hey! I just shared a file on Facebook! %@</key>
+	<string>Přidal jsem soubor na Facebook! %@</string>
+	<key>Home directory</key>
+	<string>Domovská stránka</string>
+	<key>Host:</key>
+	<string>Server:</string>
+	<key>ID: %i</key>
+	<string>ID: %i</string>
+	<key>IP address: %@</key>
+	<string>IP adresa: %@</string>
+	<key>Image effects</key>
+	<string>Efekty obrázků</string>
+	<key>Image operations</key>
+	<string>Operace obrázků</string>
+	<key>Image saved</key>
+	<string>Nahrát obrázek</string>
+	<key>Image viewer</key>
+	<string>Prohlížeč obrázků</string>
+	<key>Image will be saved to the camera roll.</key>
+	<string>Obrázek se uloží do fotoalba.</string>
+	<key>Install application</key>
+	<string>Instalace aplikace</string>
+	<key>Install package</key>
+	<string>Instalace balíčku</string>
+	<key>Invalid media type</key>
+	<string>Chyba typu media</string>
+	<key>Language</key>
+	<string>Jazyk</string>
+	<key>Later</key>
+	<string>Později</string>
+	<key>Load directory</key>
+	<string>Načíst soubor</string>
+	<key>Load home on startup</key>
+	<string>Nahrát domovskou stránku při startu</string>
+	<key>Load previous node</key>
+	<string>Nahrát předchozí</string>
+	<key>Loading file</key>
+	<string>Nahrávám soubor</string>
+	<key>Loading...</key>
+	<string>Nahrávám...</string>
+	<key>Local</key>
+	<string>Místní</string>
+	<key>Local Dropbox sync folder</key>
+	<string>Místní Dropbox synch složky</string>
+	<key>Local file:</key>
+	<string>Místní soubor:</string>
+	<key>Local sync folder</key>
+	<string>Místní synchronizace složky</string>
+	<key>Log in</key>
+	<string>Přihlásit se</string>
+	<key>Log in to Dropbox</key>
+	<string>Přihlásit se do Dropboxu</string>
+	<key>Login required</key>
+	<string>Je vyžadováno přihlášení</string>
+	<key>Login to Facebook</key>
+	<string>Přihlásit se na Facebook</string>
+	<key>Login to Twitter</key>
+	<string>Přihlásit se na Twitter</string>
+	<key>Logout from Facebook</key>
+	<string>Odhlásit se z Facebook</string>
+	<key>Logout from Twitter</key>
+	<string>Odhlásit se z Twitter</string>
+	<key>Lots of hard work went into the development of MyFile. I kindly ask you to donate in order to let me buy a new iPhone. I need this to be able to test MyFile and my other apps against recent iOS versions as my old device is no longer supported by Apple. Thank you very much!</key>
+	<string>Hodně tvrdé práce na vývoji MyFile. Proto Vás prosím o dar, abych si mohl koupit nový iPhone a měl tak možnost zkoušet MyFile a další mé aplikace na nejnovějších verzích IOS. Můj starý 3g, již není podporován společností Apple .Moc děkuji!</string>
+	<key>Lyricist</key>
+	<string>Textař</string>
+	<key>MD5 hash</key>
+	<string>MD5 hash</string>
+	<key>MIME type</key>
+	<string>MIME typ</string>
+	<key>Manage items in queue</key>
+	<string>Správce položek ve frontě</string>
+	<key>Miscellaneous</key>
+	<string>Různé</string>
+	<key>Modification time</key>
+	<string>Čas poslední změny</string>
+	<key>Movie player</key>
+	<string>Video přehrávač</string>
+	<key>MyPod</key>
+	<string>MyPod</string>
+	<key>Name</key>
+	<string>Jméno</string>
+	<key>New file</key>
+	<string>Nový soubor</string>
+	<key>New folder</key>
+	<string>Nová složka</string>
+	<key>Next</key>
+	<string>Další</string>
+	<key>No</key>
+	<string>Ne</string>
+	<key>No title</key>
+	<string>Bez názvu</string>
+	<key>OK</key>
+	<string>OK</string>
+	<key>Octal 4-digit</key>
+	<string>4-místný osmičková</string>
+	<key>Open with...</key>
+	<string>Otevřít pomocí...</string>
+	<key>Options</key>
+	<string>Možnosti</string>
+	<key>Owner's name</key>
+	<string>Vlastník</string>
+	<key>Parent directory</key>
+	<string>Složka nahoru</string>
+	<key>Password</key>
+	<string>Heslo</string>
+	<key>Password:</key>
+	<string>Heslo:</string>
+	<key>Paste Queue</key>
+	<string>Vložit do fronty</string>
+	<key>Paste file(s)</key>
+	<string>Vložit soubor(y)</string>
+	<key>Permissions</key>
+	<string>Práva</string>
+	<key>Photos</key>
+	<string>Foto</string>
+	<key>Play once</key>
+	<string>Hrát znova</string>
+	<key>Playlists</key>
+	<string>Playlisty</string>
+	<key>Please donate</key>
+	<string>Prosím,darovat.</string>
+	<key>Please make sure that you are connected to the Internet and try again.</key>
+	<string>Ujistěte se,že jste připojeni k internetu a zkuste to znovu.</string>
+	<key>Please make sure that you are connected to the Internet, logged in and the file to be deleted exists and try again.</key>
+	<string>Ujistěte se,že jste připojeni k internetu,přihlášeni a soubor pro vložení dosud existuje a zkuste to znovu.</string>
+	<key>Please make sure that you are connected to the Internet, logged in and the file to be uploaded doesn't exist yet and try again.</key>
+	<string>Ujistěte se,že jste připojeni k internetu,přihlášeni a soubor pro vložení dosud existuje a zkuste to znovu.</string>
+	<key>Please make sure that you are connected to the Internet, logged in and the folder to be created doesn't yet exist and try again.</key>
+	<string>Ujistěte se,že jste připojeni k internetu,přihlášeni a soubor pro vložení dosud existuje a zkuste to znovu.</string>
+	<key>Please make sure that you are connected to the Internet, logged in and you have enough space on your device and try again.</key>
+	<string>Ujistěte se,že jste připojeni k internetu,přihlášen a máte dostatek místa na vašem zařízení a zkuste to znovu.</string>
+	<key>Please make sure that you're connected to the Internet, logged in to your Dropbox account and the specified file does not exist yet and try again.</key>
+	<string>Ujistěte se,že jste připojeni k internetu,přihlášeni a soubor pro vložení na Dropbox dosud existuje a zkuste to znovu.</string>
+	<key>Please note that you'll need to log in in order to use MyFile with your Dropbox account.</key>
+	<string>Vezměte prosím na vědomí, že se budete muset přihlásit, abyste mohli používat MyFile s účtem Dropbox.</string>
+	<key>Please specify output filename.</key>
+	<string>Prosím,zadejte jméno výstupního soboru.</string>
+	<key>Plist operations</key>
+	<string>Plist operace</string>
+	<key>Point to draw text to</key>
+	<string>Označit místo v textu</string>
+	<key>Preview and print</key>
+	<string>Náhled a tisk</string>
+	<key>Previous</key>
+	<string>Předchozí</string>
+	<key>Property list viewer</key>
+	<string>Property list prohlížeč</string>
+	<key>Public link was copied to the pasteboard.</key>
+	<string>Odkaz byl zkopírován na pracovní plochu.</string>
+	<key>Public link was shared on Twitter.</key>
+	<string>Odkaz je sdílený na Twitter</string>
+	<key>Pull down to refresh...</key>
+	<string>Stahuji aktualizaci...</string>
+	<key>Radius in pixels</key>
+	<string>Radius v pixelech</string>
+	<key>Record #%i</key>
+	<string>Nahrávám #%i</string>
+	<key>Red:</key>
+	<string>Červená:</string>
+	<key>Release to refresh...</key>
+	<string>Aktualizuju...</string>
+	<key>Remote Dropbox sync folder</key>
+	<string>Vzdálená synch složek na Dropbox</string>
+	<key>Remote file:</key>
+	<string>Vzdálený soubor:</string>
+	<key>Remote sync folder</key>
+	<string>Vzdálená synchronizace složek</string>
+	<key>Repeat</key>
+	<string>Opakovat</string>
+	<key>Rotate</key>
+	<string>Otočit</string>
+	<key>Rounded corners</key>
+	<string>Zaoblené rohy</string>
+	<key>Running...</key>
+	<string>Průběh...</string>
+	<key>SFTP/SCP</key>
+	<string>SFTP/SCP</string>
+	<key>SQL viewer</key>
+	<string>SQL prohlížeč</string>
+	<key>Save image</key>
+	<string>Nahrát obrázek</string>
+	<key>Saving image</key>
+	<string>Uložit obrázek</string>
+	<key>Scale</key>
+	<string>Stupnice</string>
+	<key>Select</key>
+	<string>Vybrat</string>
+	<key>Send by e-mail</key>
+	<string>Odeslat na e-mail</string>
+	<key>Server is off</key>
+	<string>Server je vypnutý</string>
+	<key>Server port:</key>
+	<string>Server port:</string>
+	<key>Serving on port %@</key>
+	<string>Slouží k portu %@</string>
+	<key>Set transparency</key>
+	<string>Nastavení průhlednosti</string>
+	<key>Settings</key>
+	<string>Nastavení</string>
+	<key>Share on Facebook</key>
+	<string>Sdílet na Facebooku</string>
+	<key>Share on Twitter</key>
+	<string>Sdílet na Twitteru</string>
+	<key>Show metadata</key>
+	<string>Nastavit metadata</string>
+	<key>Shuffle</key>
+	<string>Míchání</string>
+	<key>Size</key>
+	<string>Velikost</string>
+	<key>Size: %@, permissions: %@</key>
+	<string>Velikost: %@, práva: %@</string>
+	<key>Size: %@; mode: %@</key>
+	<string>Velikost: %@; zpǔsob: %@</string>
+	<key>Social</key>
+	<string>Socialní sítě</string>
+	<key>Song added</key>
+	<string>Píseň byla přidána</string>
+	<key>Songs</key>
+	<string>Skladba</string>
+	<key>Specify degrees</key>
+	<string>Zadejte stupně</string>
+	<key>Specify percents</key>
+	<string>Zadejte procenta</string>
+	<key>Start server</key>
+	<string>Start serveru</string>
+	<key>Stop server</key>
+	<string>Stop serveru</string>
+	<key>Symlink</key>
+	<string>Symlink</string>
+	<key>Tables in database</key>
+	<string>Tabulky v databásy</string>
+	<key>Tap to select image</key>
+	<string>Klepnutím vyberte obrázek</string>
+	<key>Text editor</key>
+	<string>Textový prohlížeč</string>
+	<key>Text font size</key>
+	<string>Velikost textu</string>
+	<key>Text to be searched for</key>
+	<string>Hledat v textu</string>
+	<key>The image '%@' was successfully added to the camera roll.</key>
+	<string>Obrázek '%@' byl úspěšně přidán do fotoalba.</string>
+	<key>The song %@ was successfully added to the iPod library.</key>
+	<string>Píseň '%@' byla úspěšně přidána do iPodu.</string>
+	<key>The song '%@' could not be added to the iPod library.</key>
+	<string>Píseň '%@' nebylo možné přidat do iPodu.</string>
+	<key>The specified command couldn't be executed.</key>
+	<string>Zadaný příkaz nelze provést!</string>
+	<key>The video '%@' could not be added to the iPod library.</key>
+	<string>Video '%@' nemohlo být přidáno do knihovny iPodu!</string>
+	<key>The video '%@' was successfully added to the camera roll.</key>
+	<string>Video '%@' bylo přidáno do fotoalba!</string>
+	<key>The video '%@' was successfully added to the iPod library.</key>
+	<string>Video '%@' bylo přidáno do knihovny iPodu!</string>
+	<key>This mail was sent you using MyFile. See attachment.</key>
+	<string>Tento mail byl poslán aplikací MyFile.Podívejte se na přílohu.</string>
+	<key>This media format appears to be unsupported.</key>
+	<string>Formát média není podporován!</string>
+	<key>Title</key>
+	<string>Název</string>
+	<key>Trash</key>
+	<string>Koš</string>
+	<key>Trash operations</key>
+	<string>Operace koše</string>
+	<key>Tweet sent</key>
+	<string>Odeslané na Tweet</string>
+	<key>Type file name here</key>
+	<string>Zde zadejte název souboru</string>
+	<key>Type new password here</key>
+	<string>Zadejte nové heslo</string>
+	<key>Type port number here</key>
+	<string>Zadejte číslo portu</string>
+	<key>Unknown album</key>
+	<string>Neznámé album</string>
+	<key>Unknown artist</key>
+	<string>Neznámý umělec</string>
+	<key>Unknown genre</key>
+	<string>Neznámý žánr</string>
+	<key>Unlink iPhone from Dropbox</key>
+	<string>Odhlásit iPhone z Dropbox</string>
+	<key>Upload file</key>
+	<string>Nahrát soubor</string>
+	<key>Upload file to Dropbox</key>
+	<string>Nahrát soubor na Dropbox</string>
+	<key>Upload path</key>
+	<string>Nahrát cestu</string>
+	<key>Upload specificly</key>
+	<string>Nahrát konkrétně</string>
+	<key>Upload successful</key>
+	<string>Úspěšně nahráno</string>
+	<key>Use trash</key>
+	<string>Použít koš</string>
+	<key>User ID</key>
+	<string>ID uživatele</string>
+	<key>Username:</key>
+	<string>Jméno uživatele:</string>
+	<key>Value</key>
+	<string>Hodnota</string>
+	<key>Video added</key>
+	<string>Video přidáno</string>
+	<key>Video saved</key>
+	<string>Uložené video</string>
+	<key>Web browser</key>
+	<string>Web prohlížeč</string>
+	<key>Working</key>
+	<string>Práce</string>
+	<key>Write text here</key>
+	<string>Zde napište text</string>
+	<key>X, Y, Width, Height</key>
+	<string>X, Y, Šířka, Výška</string>
+	<key>Year</key>
+	<string>Rok</string>
+	<key>Yes</key>
+	<string>Ano</string>
+	<key>You have entered an invalid string.</key>
+	<string>Zadali jste neplatný řeťzec.</string>
+	<key>You must enter a valid port number</key>
+	<string>Musíte zadat platné číslo portu.</string>
+	<key>You've successfully downloaded the file to %@</key>
+	<string>Úspěšně jste stáhli soubor %@</string>
+	<key>[MyFile] Attachment: %@ (%@, %@)</key>
+	<string>[MyFile] Příloha: %@ (%@, %@)</string>
+	<key>about</key>
+	<string>about_cs</string>
+	<key>changelog</key>
+	<string>changelog_cs</string>
+	<key>contact</key>
+	<string>contact_cs</string>
+	<key>donate</key>
+	<string>donate_cs</string>
+	<key>help</key>
+	<string>help_cs</string>
+</dict>
+</plist>

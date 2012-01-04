@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta content="yes" name="apple-mobile-web-app-capable" />
+	<meta content="index,follow" name="robots" />
+	<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+	<link href="pics/homescreen.gif" rel="apple-touch-icon" />
+	<meta content="minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no" name="viewport" />
+	<link href="css/style.css" rel="stylesheet" media="screen" type="text/css" />
+	<script src="javascript/functions.js" type="text/javascript"></script>
+	<title>Changelog for MyFile</title>
+	<meta content="iPod,iPhone,Webkit,iWebkit,Website,Create,mobile,Tutorial,free" name="Keywords" />
+	<meta content="What is new in the latest version of iWebKit. See the great new features here." name="description" />
+</head>
+<body>
+	<div style="margin-bottom: 13px"></div>
+	<div id="tributton">
+	<div class="links"><a id="pressed">Changelog</a><a href="about_en.html">About</a><a href="contact_en.html">Contact</a></div>
+	</div>
+	<div id="content">
+		<span class="graytitle">Changelog for MyFile v1.5 (bugfix and feature release)</span>
+	<ul class="pageitem">
+		<li class="textbox">
+		<ul>
+
+<li>Main view now shows number of files and free space in current directory</li>
+<li>Added Pull to refresh in main view, Dropbox panel and MyPod</li>
+<li>Added function to add images and videos to camera roll</li>
+<li>IPA recognition, extraction and installation</li>
+<li>Added English, French and Hungarian localizations</li>
+<li>Added iPod integration!!! Features: add songs and videos to iPod library; play songs and videos from iPod library (Actions->MyPod) - Experimental: does not work exactly as should/expected, please read the help!</li>
+<li>Added a simple image editor to the image viewer (rotate, scale/resize, mirror/flip, crop/cut, effects (rounded corner, alpha, grayscale) etc...)</li>
+<li>Removed Previous/Next buttons from image viewer: use gestures (slide left/right for previous/next with two fingers, repectively)</li>
+<li>Command controller: now scrolls to end continuously and aborts execution when closed</li>
+<li>Twitter confirmation panel for details view when sharing files</li>
+<li>Fixed bug in archive manager that files with spaces in ther name could not be extracted</li>
+<li>Fixed bug in image viewer that image size "inherited" the previous image's, thus being distorted</li>
+<li>Standardized id3 metadata album artwork editing with UIImagePickerController instead of own, rather ugly implementation</li>
+<li>UI fixes and improvements</li>
+
+		</ul>
+		</li>
+	</ul>
+		<span class="graytitle">Features:</span>
+	<ul class="pageitem">
+		<li class="textbox">
+		<ul>
+			<li>Root access, support for the entire iOS filesystem</li>
+			<li>Creation, deletion, renaming, moving, copying of files and directories</li>
+			<li>Compressing directories and files into gzipped tar, bzipped tar, zip, xar and deb files</li>
+			<li>Viewing and editing various file types, including, but not limited to, text files (txt, plist, strings, c, cpp, m, mm, js, css, html, htm, php, xml, ...), HTML pages (html, htm), images (jpg, gif, png, bmp, ...), SQL databases (sqlite, sql, db, sqlitedb, itdb), Apple Property List (plist, strings) files, audio files (mp3, m4a, m4r, wma, ...), video files (mp4, mov, ...), binary files (o, dylib, bin, ...) (using hex editor), compressed/archive files (zip, tar, gz, tar.gz, tar.bz2, deb, ipa, rar), etc.</li>
+			<li>Recognizing, marking and resolving symlinks</li>
+			<li>Showing installed AppStore &copy; app names in ~/Applications</li>
+			<li>Viewing and modifying several file properties, including name, MIME-type (readonly), MD5 hash (readonly), filesize (readonly), Unix CHMOD file mode, file owner, file group, audio and image metadata</li>
+			<li>Full-featured Dropbox integration:</li>
+			<ul>
+				<li>Downloading files</li>
+				<li><b>Uploading any files of any type (not only photos and videos); uploading directories</b></li>
+				<li>Managing remote files: deleting and accessing public links (makes use of the bit.ly URL shortening service)</li>
+				<li>Creating folders</li>
+				<li>Synchronizing a local folder with Dropbox</li>
+			</ul>
+			<li>Integration of common social services, such as Facebook and Twitter</li>
+			<li>HTTP file sharing via local Wi-Fi network - downloading files from anywhere; uploading files (with PHP) to ~/Documents (for uploading: visit [your iDevice's IP address]/var/mobile/upload.html)</li>
+			<li>SFTP file sharing</li>
+			<li>Password protection for app startup</li>
+			<li>Trash for safer deletion</li>
+			<li>Sending files as attachments via e-mail, sharing on Twitter and Facebook</li>
+                        <li>Installing and extracting IPA app packages and DEB Debian packages</li>
+			<li>Adding bookmarks for files and directories</li>
+			<li>Support for Open in: feature from Mobile Safari via mf:// or myfile:// schema</li>
+                        <li><b>Reading and writing the iPod library (experimental): playing and adding songs</b></li>
+                        <li>Editing images (scale, rotate, add text labels, adjust transparency, etc...)</li>
+                        <li>Viewing and editing audio (ID3) and image (EXIF) metadata</li>
+                        <li>Adding images and videos to photo library</li>
+                        <li>Translations: English, French, Hungarian</li>
+			<li><b><i>And finally: MyFile is meant to be a free alternative for file managers on iOS. As such, I promise that it won't ever go paid. I just kindly ask you to donate, to be able to continue development with more recent Apple devices. I believe in free software, do you?</i></b></li>
+		</ul>
+	</li>
+	</ul>
+	<span class="graytitle">TODO list, future plans:</span>
+	<ul class="pageitem">
+	<li class="textbox">
+		<ul>
+			<li>Bluetooth iDevice-to-iDevice file transfer</li>
+			<li>iPad support</li>
+			<li>Get iPod sync working correctly (in contrast with the current, experimental implementation) - it rather counts to libgpod's development</li>
+                        <li>Delete tracks from iPod</li>
+                        <li>Add support for more metadata formats via TagLib</li>
+			<li>iDevice to iDevice file sharing via ad-hoc Wi-Fi network</li>
+                        <li>Show Dropbox and local thumbnail images</li>
+                        <li>DibblrMedia and Last.fm integration</li>
+			<li>Media converter; setting audio files as ringtone</li>
+			<li>Google+ and Google Docs integration</li>
+			<li>Enable MobileSubstrate</li>
+                        <li>DMG file support</li>
+		</ul>
+		</li>
+	</ul>
+	</div>
+	<div id="footer"><a href="http://snippetspace.com">Powered by iWebKit</a></div>
+
+</body>
+</html>
+

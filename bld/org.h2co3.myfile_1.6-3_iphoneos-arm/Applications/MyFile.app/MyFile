@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec "/Applications/MyFile.app/MyFile_";

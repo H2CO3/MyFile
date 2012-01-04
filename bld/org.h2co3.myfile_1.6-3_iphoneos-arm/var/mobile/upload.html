@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>Uploading files with MyFile</title>
+	</head>
+	<body>
+		<form enctype="multipart/form-data" action="upload_helper.php" method="POST">
+			<input type="hidden" name="MAX_FILE_SIZE" value="1000000000" />
+			Choose a file to upload (max. 1GB): <input name="up_file" type="file" /><br />
+			<input type="submit" value="Upload File" />
+		</form>
+	</body>
+</html>
+

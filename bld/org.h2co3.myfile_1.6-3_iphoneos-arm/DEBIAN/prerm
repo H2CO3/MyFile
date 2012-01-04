@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo ""
+echo "Stopping Dropbox daemon service..."
+kill `cat /var/root/myfile/dropboxd.pid`
+echo "OK"
+echo ""

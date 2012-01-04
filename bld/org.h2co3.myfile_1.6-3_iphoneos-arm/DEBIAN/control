@@ -1,0 +1,10 @@
+Package: org.h2co3.myfile
+Name: MyFile
+Version: 1.6-3
+Depends: libzip, libid3tag, libexif, libxml2, coreutils, gawk, uuid, gettext, com.ericasadun.utilities, odcctools, xar, openssh, openssl, sshpass, unrar, unzip, tar, org.h2co3.mfmusiclibrary
+Architecture: iphoneos-arm
+Section: System
+Depiction: http://h2co3.zxq.net/
+Description: MyFile is a free file manager for iOS by H2CO3. Developers wishing to make a plugin for MyFile, please see the API documentation: http://github.com/H2CO3/mfpluginapi
+Author: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
+Maintainer: Arpad Goretity (H2CO3) <arpad.goretity@gmail.com>
